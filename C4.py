@@ -1,0 +1,11 @@
+print([1,2] + [3,4])
+print([1]*4)
+print(1 in [1, 2, 3])
+x = 'This is a string'
+print(x[0])
+print(x[0:5])
+print(x[3:9])
+print(x[-1])
+print(x[-8:-2])
+print(x[:-11])
+print(x[-11:])
